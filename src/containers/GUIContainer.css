@@ -1,0 +1,59 @@
+
+.container {
+    text-align: center;
+    width:100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+  
+  }
+  .builderCont{
+     height:100vh;
+     width:100%;
+  }
+  
+  .formEleCont{
+    width:25%;
+  }
+  .workspaceCont{
+    width:70%;
+  } 
+  .formEleLabel{
+      color: #336699;
+  }
+  .workspaceLabel{
+     color: #ff0000;
+  }
+  .workspaceHeader{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-around;
+  }
+  .saveLocalBtn {
+    color:#0d98ba;
+    border: 2px solid #336699;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .saveLocalBtn:hover {
+    background: #339941;
+    color: white;
+  }
+  
+  .header {  
+    margin: 10px;
+    padding: 5;
+    width:100%;
+    text-align: center
+    
+  }
+  
+  .DragDropMsg{
+    text-align: center;
+  }

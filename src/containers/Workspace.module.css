@@ -1,0 +1,32 @@
+
+.element_cont{
+    margin:0px 5px 0px 5px;
+    background-color:#0000ff;
+    height:50px;
+    width:100%;
+    display:flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   }
+   
+   .eleId{
+       width:40%;
+       text-align: center;
+   
+   }
+   .button{
+   padding:10px;
+   margin:10px;
+    width:70%
+   }
+   .label{
+   padding:10px;
+   margin:10px;
+   width:70%
+   }
+   .input{
+   padding:10px;
+   margin:10px;
+   width:70%
+   }
